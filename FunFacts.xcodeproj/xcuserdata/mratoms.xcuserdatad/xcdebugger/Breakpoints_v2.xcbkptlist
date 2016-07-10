@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FunFacts/ViewController.swift"
-            timestampString = "489803368.63016"
+            timestampString = "489804176.215412"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "showFunFact()"
             landmarkType = "7">
          </BreakpointContent>
@@ -31,7 +31,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "24"
             endingLineNumber = "24"
-            landmarkName = "transitionBackgroundColor(view:)"
+            landmarkName = "transitionBackgroundColor(view:otherActions:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

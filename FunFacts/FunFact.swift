@@ -9,9 +9,9 @@
 import Foundation
 
 struct FunFact {
-  private let facts = ["children as super annoying",
-                       "there are times when I want to be childless again",
-                       "like right now holy crap"]
+  private let facts = ["Some perls of wisdom",
+                       "If you're looking for clever, you came to the wrong place",
+                       "What is this place?"]
   
   func randomFact() -> String {
     let rand = Int.random(upperBound: facts.count)
